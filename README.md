@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lucia López</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lucia López <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
+
+<p align="center">
+<img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</p>
 
 <h3 align="center"> Passionate about innovation, since I really enjoy developing technological solutions that reinforce my creativity, that will help me when facing new challenges.</h3>
 
